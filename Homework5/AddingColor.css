@@ -1,7 +1,8 @@
 html {font-family: Arial; color: white; background-color: blue; }
 
 h1 {color: white}
-p {color: white;  border-top-style: solid;
+p {color: white}
+p1 {  border-top-style: solid;
     border-right-style: solid;
     border-bottom-style: solid;
-    border-left-style: solid;}
+    border-left-style: solid;}}
