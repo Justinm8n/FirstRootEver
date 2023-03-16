@@ -2,4 +2,7 @@ html {font-family: Arial; color: white; background-color: blue; }
 
 h1 {color: white}
 h4 {font-family:'Times New Roman', Times, serif}
-p {color: white}
+h5 {border: 10px solid;
+    display: inline-block;
+    margin: 0;}
+p {color: red}
