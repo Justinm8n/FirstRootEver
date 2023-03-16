@@ -1,8 +1,5 @@
 html {font-family: Arial; color: white; background-color: blue; }
 
 h1 {color: white}
+h4 {font-family:'Times New Roman', Times, serif}
 p {color: white}
-p1 {  border-top-style: solid;
-    border-right-style: solid;
-    border-bottom-style: solid;
-    border-left-style: solid;}}
