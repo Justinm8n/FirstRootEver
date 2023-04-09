@@ -1,0 +1,87 @@
+.dot1 {
+position: fixed;
+bottom:300;
+right: 700;
+width:90;
+height:90;
+
+    }
+
+.dot2 {
+position: fixed;
+bottom:150;
+right: 200;
+width:110;
+height:110;
+
+    }
+
+.dot3 {
+position: fixed;
+bottom:500;
+left: 500;
+width:70;
+height:70;
+
+    }
+.dot4 {
+position: fixed;
+bottom:430;
+right: 450;
+width:80;
+height:80;
+
+    }
+.dot5 {
+position: fixed;
+bottom:380;
+left: 150;
+width:80;
+height:80;
+
+    }
+
+.sword1 {
+position: fixed;
+bottom:40;
+left: 70;
+width:200;
+height:150;
+
+    }
+
+.sword2 {
+position: fixed;
+bottom:100;
+left: 500;
+width:230;
+height:150;
+
+    }
+
+.sword3 {
+position: fixed;
+bottom:340;
+left: 310;
+width:200;
+height:150;
+
+    }
+
+.sword4 {
+position: fixed;
+bottom:180;
+right: 400;
+width:200;
+height:180;
+
+    }
+
+.sword5 {
+position: fixed;
+bottom:380;
+right: 30;
+width:250;
+height:180;
+
+    }

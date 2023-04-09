@@ -1,0 +1,73 @@
+.dot1 {
+position: fixed;
+bottom:200;
+left: 100;
+width:120;
+height:120;
+
+    }
+
+.dot2 {
+position: fixed;
+bottom:400;
+left: 350;
+width:100;
+height:100;
+
+    }
+
+.dot3 {
+position: fixed;
+bottom:10;
+left: 500;
+width:100;
+height:100;
+
+    }
+.dot4 {
+position: fixed;
+bottom:400;
+right: 300;
+width:90;
+height:90;
+
+    }
+.dot5 {
+position: fixed;
+bottom:450;
+left: 50;
+width:80;
+height:80;
+}
+
+.pinkflowers {
+position: fixed;
+bottom:30;
+left: 180;
+width:230;
+height:150;
+}
+
+.purpleflowers {
+position: fixed;
+bottom:100;
+left: 610;
+width:260;
+height:180;
+}
+
+.blueflowers {
+position: fixed;
+bottom:60;
+right: 150;
+width:300;
+height:240;
+}
+
+.yellowflowers {
+position: fixed;
+top:20;
+right: 370;
+width:250;
+height:200;
+}
