@@ -1,0 +1,177 @@
+body {
+	
+	margin: 0 auto;
+	width: 960px;
+	font-size: 20px;
+	font-family: Times, serif;
+	color: red;
+	background-color: cyan;
+}
+
+header[role="banner"] {
+
+position: relative;
+top: 10px;
+background-color: cyan;
+height: 135px;
+border-style: solid;
+border-width: 10px;
+border-color: black;
+
+}
+
+h1 {
+
+	font-size: 60px;
+	text-align:center;
+	color: black;
+	text-shadow: 0 1px 1px rgba(0,0,0,.5);
+	margin: 0px, 0px, 0px, 0px;
+
+}
+
+article {
+
+position: relative;
+top: 35px;
+background-color: red;
+border-style: double;
+border-width: 10px;
+border-color: black;
+text-shadow: 0px 1px 1px rgba(0,0,0,.5);
+height: 550px;
+width: 600px;
+}
+
+article h2 {
+
+color: white;
+font-size: 24px;
+line-height: 14px;
+margin: 20px 0px 0px 0px;
+padding: 10px 20px;
+font-style: bold;
+
+}
+
+article p {
+
+	color: white;
+	font-size: 25px;
+	line-height: 24px;
+	padding: 2px 20px;
+}
+
+section {
+background-color: cyan;
+border-style: double;
+border-width: 5px;
+border-color: black;
+padding: 0px;
+margin: 10px 10px;
+}
+
+section h2 {
+
+color: white;
+font-size: 24px;
+line-height: 14px;
+margin: 10px 0px 0px 0px;
+padding: 10px 20px;
+font-style: bold;
+
+}
+
+section p {
+
+	color: black;
+	font-size: 20px;
+	line-height: 30px;
+	padding: 2px 20px;
+}
+
+aside {
+
+position: relative;
+text-align: center;
+top: -535px;
+left: 745px;
+background-color: red;
+border-style: solid;
+border-width: 8px;
+border-color: black;
+height: 554px;
+width: 202px;
+}
+
+aside h2 {
+
+color: white;
+font-size: 24px;
+line-height: 14px;
+margin: 10px 0px 0px 0px;
+padding: 10px 20px;
+font-style: bold;
+
+}
+
+aside p {
+
+	color: white;
+	font-size: 20px;
+	line-height: 22px;
+	padding: 10px 20px 0px 20px;
+}
+
+aside nav {
+	height: 50px;
+	width:800px;
+	margin: 0px 0px 0px 0px;
+}
+
+aside nav ul {
+text-align: left;
+font-family: Arial, Verdana;
+font-size: 18px;
+list-style: none;
+}
+
+aside nav ul li {
+
+height: 150px;
+width: 195px;
+margin: 0px 0px 0px 5ps;
+white-space: nowrap;
+}
+
+aside nav ul li a {
+
+	text-decoration: none;
+	padding: 5px 20px 5px 20px;
+	background: red;
+	color: white;
+	text-shadow: 0px 1px 1px rgba(0,0,0,.5);
+	border-style: solid;
+	border-width: 8px;
+	border-color: black;
+}
+
+footer {
+
+position: relative;
+top: -500px;
+text-align:center;
+border-style: solid;
+border-width: 4px;
+border-color: black;
+height: 50px;
+width: 950px;
+}
+
+footer p {
+
+	color: black;
+	font-size: 20px;
+	line-height: 22px;
+	padding: px 20px 0px 20px;
+}
